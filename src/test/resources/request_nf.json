@@ -1,0 +1,14 @@
+{
+  "maxWeight": 1,
+  "itemDtos": [
+    {"id": 1, "grams": 85310,"price": 29},
+    {"id": 2, "grams": 14550,"price": 74},
+    {"id": 3, "grams": 3980,"price": 16},
+    {"id": 4, "grams": 26240,"price": 55},
+    {"id": 5, "grams": 63690,"price": 52},
+    {"id": 6, "grams": 76250,"price": 75},
+    {"id": 7, "grams": 60020,"price": 74},
+    {"id": 8, "grams": 93180,"price": 35},
+    {"id": 9, "grams": 89950,"price": 78}
+  ]
+}
