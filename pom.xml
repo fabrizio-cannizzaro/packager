@@ -85,7 +85,9 @@
 				<artifactId>kubernetes-maven-plugin</artifactId>
 				<version>1.7.0</version>
 				<configuration>
-					<imagePullPolicy>Never</imagePullPolicy>
+<!--					<imagePullPolicy>Never</imagePullPolicy>-->
+					<dockerHost>tcp://192.168.49.2:2376</dockerHost>
+					<certPath>/home/fabrix/.minikube/certs</certPath>
 					<registry>192.168.49.2:2376</registry>
 				</configuration>
 			</plugin>
